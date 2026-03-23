@@ -4,16 +4,22 @@ This project demonstrates a practical workflow for analyzing protein–protein i
 As a case study, I used Alzheimer’s disease–associated proteins to:
 
 construct a PPI network
+
 identify key hub proteins
+
 detect functional modules using network analysis
+
 visualize biologically meaningful patterns
 
 👉 The goal of this project is to practice and demonstrate bioinformatics and data analysis skills, including working with real biological datasets, rather than to conduct novel Alzheimer’s research.
 
 🧪 Data Sources
 UniProt – protein search and annotation
+
 STRING – protein–protein interaction data
+
 🔍 Data Collection Workflow
+
 1️⃣ Selecting seed proteins (UniProt)
 
 To define a biologically relevant starting point:
