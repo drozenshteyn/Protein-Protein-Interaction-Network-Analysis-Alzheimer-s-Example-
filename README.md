@@ -14,6 +14,7 @@ visualize biologically meaningful patterns
 👉 The goal of this project is to practice and demonstrate bioinformatics and data analysis skills, including working with real biological datasets, rather than to conduct novel Alzheimer’s research.
 
 🧪 Data Sources
+
 UniProt – protein search and annotation
 
 STRING – protein–protein interaction data
@@ -26,6 +27,7 @@ To define a biologically relevant starting point:
 
 Searched UniProt using keywords:
 “Alzheimer’s disease”
+
 Filtered results:
 Organism: Homo sapiens (Human)
 Reviewed entries (Swiss-Prot only)
@@ -33,25 +35,37 @@ Reviewed entries (Swiss-Prot only)
 👉 From these results, I selected well-established Alzheimer’s-associated proteins:
 
 APP
+
 PSEN1
+
 PSEN2
+
 MAPT
+
 APOE
+
 BACE1
+
 GSK3B
+
 CDK5
 
 These proteins represent key biological processes:
 
 amyloid-beta production
+
 tau phosphorylation
+
 neuronal signaling
+
 2️⃣ Expanding the network (STRING)
 
 Using STRING:
 
 Entered the seed proteins
+
 Set parameters:
+
 Organism: Homo sapiens (9606)
 Confidence score ≥ 0.7 (high confidence)
 Enabled first-shell interactors
