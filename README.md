@@ -13,6 +13,8 @@ visualize biologically meaningful patterns
 
 👉 The goal of this project is to practice and demonstrate bioinformatics and data analysis skills, including working with real biological datasets, rather than to conduct novel Alzheimer’s research.
 
+🚀 Interactive visualization (Tableau) : https://public.tableau.com/app/profile/diana.rozenshteyn/viz/ppi_network_analysis_dashboard/Dashboard1
+
 🧪 Data Sources
 
 UniProt – protein search and annotation
@@ -240,6 +242,4 @@ STRING database
 
 UniProt database
 
-🚀 Future Improvements
-
-Build interactive visualization (Tableau)
+Tableau
